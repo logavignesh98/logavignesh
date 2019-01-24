@@ -1,4 +1,4 @@
-n=int(input("Enter number:"))
+n= 5112
 count=0
 while(n>0):
     count=count+1
