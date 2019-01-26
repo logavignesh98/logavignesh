@@ -1,4 +1,4 @@
-num =int(input())
+n =int(input())
 a=n
 b=0
 while (n>10):
