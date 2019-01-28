@@ -1,5 +1,5 @@
-lower = int(input("start:"))
-upper = int(input("end:"))
+lower = int(input())
+upper = int(input())
 for num in range(lower,upper+1):
     sum = 0
     temp = num
